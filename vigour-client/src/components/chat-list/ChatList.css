@@ -1,0 +1,7 @@
+.vigour-main.light > .vigour-chat-list {
+  background: #f1f1f3;
+}
+
+.vigour-main.dark > .vigour-chat-list {
+  background: #1d1f23;
+}

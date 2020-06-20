@@ -1,0 +1,7 @@
+.vigour-main.light > .vigour-chat-channel {
+  background: #fff;
+}
+
+.vigour-main.dark > .vigour-chat-channel {
+  background: #212327;
+}
